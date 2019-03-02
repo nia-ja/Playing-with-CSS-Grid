@@ -1,0 +1,14 @@
+body {
+    background: lightsalmon;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 650px;
+    height: 100vh;
+    background: yellowgreen;
+    margin: 0 auto;
+}
+.box {
+    
+}
